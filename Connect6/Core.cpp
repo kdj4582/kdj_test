@@ -49,7 +49,6 @@ void CCore::SetMaxDirector(int arr, int y, int x){
 
 void CCore::AddCounter(int arr){
 	m_Max[arr].AddMaxCounter();
-	int m;
 }
 
 void CCore::CounterInit(int arr){
